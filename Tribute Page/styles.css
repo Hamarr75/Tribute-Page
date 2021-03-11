@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;    
+    color: #444;
+    font-family: 'Courier New', Courier, monospace;
+    background-image: url(images/old-newspaper-background-inspirational-large-old-paper-or-parchment-background-texture-the-great-alaskan-lumberjack-show-this-year-of-old-newspaper-background.jpg);
+    background-color: #eee7db;
+}
+
+
+h3 {
+    text-align: center;
+} 
+#title {
+    color: #222;
+    font-size: 40px;
+    text-align: center;
+    text-decoration: underline;
+}
+#img-div {
+    display: block;
+}
+#image {
+    display: block;        
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #eee7db;
+    border-radius: 2%;          
+}
+.photo-text {    
+    text-align: center;
+}
+.childhood-text {
+    margin-left: 1em;
+    margin-right: 1em;
+}
+#tribute-info {
+    font-size: 30px;
+    text-align: center;    
+}
+.childhood {
+    font-size: 20px;
+}
+
+
